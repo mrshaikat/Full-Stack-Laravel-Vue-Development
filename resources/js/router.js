@@ -9,10 +9,15 @@ import methods from './components/pages/basic/methods.vue'
 
 const routes = [
 
+    //projects route...
+
     {
         path: '/my-new-vue-route',
         component: firstPage
     },
+
+
+
     {
         path: '/new-route',
         component: newRoure
